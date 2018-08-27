@@ -1,12 +1,16 @@
 body	{
 				padding-left:	15px;
+				background-color: #def9f8;
+}
+# par{
+	color: #16937e;
 }
 h1	a	{
 				color:	#FCA205;
         font-family:	'Lobster';
 }
 .page-header	{
-				background-color:	#ff9400;
+				background-color:	#0729bf;
 				margin-top:	0;
 				padding:	20px	20px	20px	40px;
 }
